@@ -1,2 +1,2 @@
-# workshop
-playing around
+# git_workshop
+Just getting started!
