@@ -1,3 +1,4 @@
 we got exciting data
 let's plot some ggplot2 charts
-
+let's create some base plots.
+You both it!
